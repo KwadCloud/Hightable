@@ -33,20 +33,21 @@
 
                 </div>
 
-                <div class="c-col-2 sm-6 hide-mobile hideon-mobile-ipad "></div>
+                <div class="c-col-1 sm-6 hide-mobile hideon-mobile-ipad "></div>
 
-                <div class="c-col-8 sm-6 align-right">
+                <div class="c-col-9 sm-6 align-right">
 
                     <!-- Site Navigaiton -->
                     <div id="site-navigation" class="classic align-right hide-mobile" data-sub-background="gray">
 
                         <ul class="menu main-menu">
 
-                            <li><a href="#why">Why HighTable</a></li>
-                            <li><a href="#how">How it works?</a></li>
-                            <li><a href="#kudos">Kudos</a></li>
-                            <li><a href="#curiosity">Curiosity Corner</a></li>
-                            <li><a href="#connect">Let's Connect</a></li>
+                            <li><a href="#whyhightable">Why HighTable</a></li>
+                            <li><a href="#howitworks">How it works?</a></li>
+                            <li><a href="#using">Using Hightable</a></li>
+                            <li><a href="#intent">Our Intent</a></li>
+                            <li><a href="#fqq">Faq's</a></li>
+                            <li><a href="#behind">Behind the Table</a></li>
 
                         </ul>
 
@@ -83,12 +84,12 @@
 
                     <ul class="menu main-menu">
 
-                        <li><a href="#why">Why Hightable</a></li>
-                        <li><a href="#how">How it works?</a></li>
-                        <li><a href="#kudos">Kudos</a></li>
-                        <li><a href="#curiosity">Curiosity Corner</a></li>
-                        <li><a href="#connect">Let's Connect</a></li>
-
+                            <li><a href="#whyhightable">Why HighTable</a></li>
+                            <li><a href="#howitworks">How it works?</a></li>
+                            <li><a href="#using">Using Hightable</a></li>
+                            <li><a href="#intent">Our Intent</a></li>
+                            <li><a href="#fqq">Faq's</a></li>
+                            <li><a href="#behind">Behind the Table</a></li>
 
                     </ul>
 

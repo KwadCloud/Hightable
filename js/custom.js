@@ -26,3 +26,16 @@ document.addEventListener("DOMContentLoaded", function() {
     path: 'js/logodata.json'
   })
 
+
+  function closePopup() {
+    const popup = document.getElementById('popup');
+    popup.classList.add('fade-out');
+    setTimeout(() => {
+        popup.style.display = 'none';
+        popup.classList.remove('fade-out');
+    }, 3000); // Match the duration of the fade-out transition
+}
+
+window.onload = function() {
+    document.getElementById('popup').style.display = 'flex';
+}
