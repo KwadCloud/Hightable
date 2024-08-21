@@ -73,7 +73,7 @@
 
                             <li><a href="terms.php">Terms</a></li>
                             <li><a href="privacy.php">Privacy</a></li>
-                            <li><a href="Contact">Contact</a></li>
+                            <li><a href="contact.php">Contact</a></li>
 
                         </ul>
                         <!--/ Menu -->
