@@ -148,11 +148,41 @@ html {
     border: 8px solid #E1B75F;
     padding: 1rem;
     border-radius: 2rem;
+    min-height: 400px;
 }
 
+.mgbt {
+    margin-bottom: 0;
+}
+
+.mgbtminus100 {
+    margin-bottom: -100px;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.mgtop20 {
+    margin-top: 20px;
+}
+
+.pdb10 {
+    padding-bottom: 10px;
+}
+
+.pdt0 {
+    padding-top: 0;
+}
 .black {
     color:#000;
 }
+
+.bglight {
+    background-color: #fff;
+}
+
+
 
 .poptitle {
     font-size: 3.5rem;
@@ -199,6 +229,7 @@ html {
  .spline-viewer {
     display: none;
 }
+
 
 /* Mobile view */
 @media (max-width: 575.98px) {
@@ -471,7 +502,9 @@ html {
     color: #fff;
 }
 
-
+.bgdark {
+    background-color: #191919;
+}
 
 .flexbgdark {
     background-color: #C29240;

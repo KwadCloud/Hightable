@@ -1157,7 +1157,7 @@ div#content {
     position: relative;
     background-size: cover;
     background-position: center;
-    padding-top: 150px;
+    padding-top: 100px;
 }
 
 .section.no-padding {
@@ -9667,6 +9667,7 @@ ul.nayla-awards-list li a span:last-child {
     margin-top: auto;
     z-index: 1;
     max-width: 80%;
+    margin-top: 10px;
 }
 
 .info-box-top {
